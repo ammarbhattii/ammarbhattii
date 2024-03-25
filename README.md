@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarbhattii&label=Profile%20views&color=0e75b6&style=flat" alt="ammarbhattii" /> </p>
 
-- 🔭 I’m currently delving into **TypeScript using Visual Studio Code.**
+- 🔭 I’m currently delving into **python APIs development using NEON FAST-API for Microservices.**
 
 - 💬 If you have any questions, **Feel free to ask me about setting up your development environment, including installing MERN ,NEXT.js ,FAST APIs and Visual Studio Code.**
 
